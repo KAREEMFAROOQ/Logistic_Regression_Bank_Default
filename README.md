@@ -9,7 +9,7 @@ Objective :
 * To find number of defaulters and non-defaulters
 * To find number of students out of all the barrowers
 
-Libraries used in this EDA are Numpy,Imblearn,Matplotlib,Sklearn,Seaborn,Warnings and plots are used in this EDA are countplot,boxplot,heatmap
+Libraries used in this EDA are Numpy,Imblearn,Matplotlib,Sklearn,Seaborn and plots are used in this EDA are countplot,boxplot,heatmap
 
 
 Dataset Information :
